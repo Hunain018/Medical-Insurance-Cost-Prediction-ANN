@@ -4,8 +4,6 @@ This project trains an Artificial Neural Network (ANN) with TensorFlow/Keras
 to predict individual medical insurance **charges** from the classic
 `insurance.csv` dataset (1,338 records: age, sex, BMI, children, smoker,
 region, charges).
- 
-The full, executed analysis is in **`insurance_analysis.ipynb`**. This README
 
 ---
  
