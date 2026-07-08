@@ -6,8 +6,7 @@ to predict individual medical insurance **charges** from the classic
 region, charges).
  
 The full, executed analysis is in **`insurance_analysis.ipynb`**. This README
-summarizes the data exploration, modeling approach, and results.
- 
+
 ---
  
 ## 1. Dataset Overview
