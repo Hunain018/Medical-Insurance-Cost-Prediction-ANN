@@ -78,7 +78,7 @@ A small feed-forward ANN for regression:
  
 | Metric | ANN Model | Baseline (predict mean charge) |
 |--------|-----------|---------------------------------|
-| MAE    | **$3,134.06** | $9,861.80 |
+| MAE    | **$3,845.16** | $9,861.80 |
 | RMSE   | **$4,882.62** | $13,612.43 |
 | R²     | **0.870**     | 0.000 (by definition) |
  
