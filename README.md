@@ -80,7 +80,7 @@ A small feed-forward ANN for regression:
 |--------|-----------|---------------------------------|
 | MAE    | **$3,845.16** | $9,861.80 |
 | RMSE   | **$5,608.76** | $13,612.43 |
-| R²     | **0.870**     | 0.000 (by definition) |
+| R²     | **0.83**     | 0.000 (by definition) |
  
 - The model explains about **87% of the variance** in insurance charges on
   unseen data, more than tripling the explanatory power of a naive baseline
